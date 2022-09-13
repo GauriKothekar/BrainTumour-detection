@@ -1,1 +1,1 @@
-# BrainTumour-detection
+# BrainTumour-detection using MRI IMAGES
